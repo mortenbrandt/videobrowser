@@ -1,2 +1,1 @@
-videobrowser
-============
+# PhoneGap Video Browser App #
